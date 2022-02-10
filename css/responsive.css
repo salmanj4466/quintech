@@ -575,6 +575,14 @@ hr.footer{
 .rev-icon{
     width: 50px;
 }
+
+.tp-mask-wrap .tp-caption   {
+    margin: 30px 0px 0px !important;
+}
+
+.navigation-fixed-placeholder {
+    height: auto !important;
+}
     
 .pages-title{
     width: 70%;
@@ -757,6 +765,7 @@ p {
 .contact-info-right{
     box-shadow: 0rem 0rem rgba(0, 0, 0, 0.075) !important;
     padding: 0rem;
+    border: none;
 }
     
 .bc-icon{
